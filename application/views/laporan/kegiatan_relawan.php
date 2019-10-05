@@ -299,18 +299,18 @@
 														foreach ($relawan_task as $key => $ct) {
 															if($ct['Id_Struktur']==$value['Id_Struktur']){
 																$total_ini = $ct['Jumlah_M'] + $ct['Jumlah_CM'] + $ct['Jumlah_O'] + $ct['Jumlah_T'] + $ct['Jumlah_BJ'];
-																$cakupan1 += $total_ini;
+																// $cakupan1 += $total_ini;
 																$pemilih +=$ct['Jumlah_M'];
 															}
 														}
 														foreach ($task_mandiri as $key => $tm) {
 															if($tm['Id_Struktur']==$value['Id_Struktur']){
 																$total_ini = $tm['Jumlah_M'] + $tm['Jumlah_CM'] + $tm['Jumlah_O'] + $tm['Jumlah_T'] + $tm['Jumlah_BJ'];
-																$cakupan2 += $total_ini;
+																// $cakupan2 += $total_ini;
 																$pemilihmandiri += $tm['Jumlah_M'];
 															}
 														}
-														$total_cakupan = $cakupan1+$cakupan2;
+														// $total_cakupan = $cakupan1+$cakupan2;
 														?>
 														<td style="text-align: center;"><?= $pemilih+$pemilihmandiri; ?> Orang</td>
 														<td style="text-align: center;"><?php
