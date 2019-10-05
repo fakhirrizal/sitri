@@ -135,70 +135,8 @@
                                                     </div>
                                                 </div>
                                                 <div class="portlet-body">
-                                                    <div class="bg-img1 overlay1 size1 flex-w flex-c-m p-t-55 p-b-55 p-l-15 p-r-15" style="background-image: url('<?=base_url('assets/pks1.png');?>');">
-                                                        <div class="wsize1">
-                                                            <!-- <p class="txt-center p-b-23">
-                                                                <i class="zmdi zmdi-card-giftcard cl0 fs-60"></i>
-                                                            </p> -->
-
-                                                            <!-- <h3 class="l1-txt1 txt-center p-b-22">
-                                                                Coming Soon
-                                                            </h3> -->
-                                                            <br>
-                                                            <br>
-                                                            <br>
-                                                            <br>
-                                                            <br>
-                                                            <br>
-															<br>
-                                                            <br>
-                                                            <br>
-															<br>
-                                                            <br>
-															<br>
-                                                            <br>
-                                                            <br>
-                                                            <!-- <p class="txt-center m2-txt1 p-b-67" style='font-size: 40px'>
-                                                                Our website is under construction, follow us for update now!
-                                                                Menuju Pemilihan Umum 2019<br>17 April 2019
-                                                                HARI LAGI MENUJU PEMILU
-                                                            </p> -->
-															<p style="text-align: center;"><br></p>
-															<p style="text-align: center;"><br></p>
-															<p style="text-align: center;"><br></p>
-                                                            <div class="tes flex-w flex-sa-m cd100 bor1 p-t-42 p-b-22 p-l-50 p-r-50 respon1" >
-																<br>
-																<br>
-                                                                <div class="flex-col-c-m wsize2 m-b-20">
-                                                                    <span class="l1-txt2 p-b-4 days" style="color:black" id='hari'></span>
-                                                                    <span class="m2-txt2" style="color:black">Hari</span>
-                                                                </div>
-
-                                                                <span class="l1-txt2 p-b-22" style="color:black">:</span>
-                                                                
-                                                                <div class="flex-col-c-m wsize2 m-b-20">
-                                                                    <span class="l1-txt2 p-b-4 hours" style="color:black" id='jam'></span>
-                                                                    <span class="m2-txt2" style="color:black">Jam</span>
-                                                                </div>
-
-                                                                <span class="l1-txt2 p-b-22 respon2" style="color:black">:</span>
-
-                                                                <div class="flex-col-c-m wsize2 m-b-20">
-                                                                    <span class="l1-txt2 p-b-4 minutes" style="color:black" id='menit'></span>
-                                                                    <span class="m2-txt2" style="color:black">Menit</span>
-                                                                </div>
-
-                                                                <span class="l1-txt2 p-b-22" style="color:black">:</span>
-
-                                                                <div class="flex-col-c-m wsize2 m-b-20">
-                                                                    <span class="l1-txt2 p-b-4 seconds" style="color:black" id='detik'></span>
-                                                                    <span class="m2-txt2" style="color:black">Detik</span>
-                                                                </div>
-                                                            </div>
-
-                                                        
-                                                        </div>
-                                                    </div>
+													<img src='<?=base_url('assets/baru.jpeg');?>' width='100%'>
+                                                    
                                                 </div>
                                             </div>
                                             <!-- END CHART PORTLET-->
